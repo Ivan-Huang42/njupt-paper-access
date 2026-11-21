@@ -1,0 +1,4 @@
+interface:
+  display_name: "NJUPT Paper Access"
+  short_description: "Find, open, and archive NJUPT-licensed papers"
+  default_prompt: "Use $njupt-paper-access to find this paper and retrieve its full text through my NJUPT access."
